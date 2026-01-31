@@ -1,7 +1,6 @@
 java is developed by games gosling
-<<<<<<< HEAD
+
 java is opps based language
 java is opps based language
-=======
-java is opps based languange
->>>>>>> 1374bd75b47b4bca505d3ed6443d4bc63dea9a6f
+
+
